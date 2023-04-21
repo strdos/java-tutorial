@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c1387dd-b4b8-4222-ba2e-c343c0c9ec96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/NumberTriangle.java" afterDir="false" />
+    <list default="true" id="0c1387dd-b4b8-4222-ba2e-c343c0c9ec96" name="Changes" comment="NumberTriangles">
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/AustralianTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/CentralTraffic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/ChildAirCompany1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/DateTimeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/MinNumber2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaTutorial/ParentAirCraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,13 +45,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +60,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681822582359</updated>
     </task>
+    <task id="LOCAL-00001" summary="NumberTriangles">
+      <created>1681849437464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681849437464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NumberTriangles" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumberTriangles" />
   </component>
 </project>
